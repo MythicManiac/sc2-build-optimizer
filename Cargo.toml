@@ -1,0 +1,8 @@
+[package]
+name = "sc2-build-optimizer"
+version = "0.1.0"
+authors = ["Mythic <mythicmaniac@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rayon = "1.0.3"
